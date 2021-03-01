@@ -1,0 +1,7 @@
+.selected {
+    margin: 100px 20px;
+    border-radius: 10px;
+    box-shadow: -12px 12px 3px #cddc39;
+    padding: 30px;
+    background: linear-gradient(45deg, #96cd79, #fbf183);
+}

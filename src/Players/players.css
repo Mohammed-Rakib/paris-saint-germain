@@ -1,0 +1,7 @@
+.player-cart{
+    background: linear-gradient(to right, #4caf50c9,#ffeb3ba1);
+    margin: 30px 0px;
+    border-radius: 10px;
+    padding: 37px;
+    box-shadow: -14px 13px 7px 3px #cddc39;
+}

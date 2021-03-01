@@ -1,0 +1,19 @@
+.logo img {
+    width:100px;
+    margin: 14px 0;
+}
+.logo{
+    flex-basis: 50%;
+}
+.navigation ul li {
+    list-style: none;
+    display: inline-block;
+}
+.navigation ul li a {
+    padding:20px 20px;
+    font-size:20px;
+    font-weight: 600;
+}
+.navigation{
+    flex-basis: 50%;
+}
